@@ -1,0 +1,90 @@
+body {
+	background-image: url("http://media.idownloadblog.com/wp-content/uploads/2014/02/Apple-iPad-campagin-Your-Verse-Mountaineers-002.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#top_nav {
+	width: 80%;
+	margin-top: 3px;
+	margin-left: 70px;
+}
+
+#top_nav ul {
+	list-style-type: none;
+	height: 38px;
+    background: linear-gradient(grey, #585959, grey);
+    border-radius: 10px;
+}
+
+#top_nav li {
+	float:left;
+	width: 11%;
+	border-right: 1px solid gray;
+	text-align: center;
+}
+
+#top_nav li a  {
+	display: block;
+	padding: 8px;
+	text-decoration: none;
+	height: 25px;
+	color: white;
+}
+
+#text {
+	position: absolute;
+	width: 50%;
+	margin-left: 300px;
+	margin-top: 200px;
+	color: white;
+	text-align: center;
+}
+
+#bottom_boxes {
+	position: absolute;
+	height: 150px;
+	width: 97%;
+	margin-top: 746px;
+}
+
+.box {
+	display: inline-block;
+	height: 150px;
+	width: 24.5%;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#footer1 {
+	position: absolute;
+	margin-top: 900px;
+	margin-left: 130px;
+	color: grey;
+}
+
+#footer1 a {
+	text-decoration: none;
+}
+
+#footer2 {
+	position: absolute;
+	margin-top: 885px;
+	margin-left: 630px;
+	color: grey;
+}
+
+#footer2 a {
+	text-decoration: none;
+}
+
+#ul_top_hypers li {
+    float: left;
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+
